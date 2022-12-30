@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh1912" alt="shreyansh1912" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Technologies**
+- 🌱 I’m currently learning **MERN Technologies, Data Science**
 
 - 💬 Ask me about **JAVA, Data Structures**
 
