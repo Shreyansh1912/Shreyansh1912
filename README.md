@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JAVA, Data Structures**
 
-- 📫 How to reach me **shreyanshsrivastava1912@gmail.com**
+- 📫 How to reach me **aayansrivastava1912@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
